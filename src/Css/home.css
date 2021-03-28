@@ -1,0 +1,18 @@
+
+@media only screen and (min-width: 992px) {
+    .main{
+        margin-top: 64px;
+        margin-left: 15em;
+     }
+    
+
+} 
+
+.main{
+    margin-top: 64px;
+    
+}
+
+html {
+    scroll-behavior: smooth;
+  }
